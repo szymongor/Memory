@@ -1,0 +1,31 @@
+.button{
+    color: green;
+    margin: 0.4vw;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    width: 5vw;
+    height: 4.2vw;
+    float: left;
+
+}
+
+.player1{
+  float: left;
+  height: 98vh;
+}
+
+.board{
+  float: left;
+  height: 98vh;
+}
+
+#board {
+  margin: auto;
+
+}
+
+.player2{
+  float: left;
+  height: 98vh;
+}
